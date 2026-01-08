@@ -29,4 +29,4 @@ def start_chat():
             break
 
 if __name__ == "__main__":
-    start_chat()
+    start_chat() #chat started
